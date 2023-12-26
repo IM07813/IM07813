@@ -1,9 +1,5 @@
 - 👋 Greetings,
 
-Sure, I can add some more icons or emojis to your file. Here is a possible updated version of your file:
-
----
-
 # Hi there, I'm Waqar (IM07813) 👋
 
 I am an aspiring developer with a strong passion for Artificial Intelligence. I have a diverse range of interests within the field, including Python development, Machine Learning, Deep Learning, Reinforcement Learning, and Natural Language Processing (NLP).
