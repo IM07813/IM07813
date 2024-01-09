@@ -1,36 +1,42 @@
-- 👋 Greetings,
+# Waqar (IM07813) - Aspiring AI Developer 👨‍💻🤖
 
-# Hi there, I'm Waqar (IM07813) 👋
+## About Me
 
-I am an aspiring developer with a strong passion for Artificial Intelligence. I have a diverse range of interests within the field, including Python development, Machine Learning, Deep Learning, Reinforcement Learning, and Natural Language Processing (NLP).
+👋 Hi, I'm Waqar, an AI enthusiast with a keen interest in Python, Machine Learning, Deep Learning, Reinforcement Learning, and Natural Language Processing (NLP). I love tackling new challenges and am deeply committed to the AI community. My projects, which you can find on my GitHub, reflect my dedication to learning and growing within this dynamic field.
 
-## My Projects 🚀
+## My Expertise
 
-Over time, I have successfully completed several projects which can be found on my GitHub account. These projects showcase my growing expertise and commitment to advancing my knowledge in AI-related technologies. Presently, I am dedicating my time to developing new Machine Learning projects on a daily basis, further enhancing my skill set.
+![Python](https://skillicons.dev/icons?i=python)&nbsp;
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)&nbsp;
+![PyTorch](https://skillicons.dev/icons?i=pytorch)&nbsp;
+![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn)&nbsp;
+![OpenCV](https://skillicons.dev/icons?i=opencv)&nbsp;
+![Reinforcement Learning](https://skillicons.dev/icons?i=ai)&nbsp;
+![Computer Vision](https://skillicons.dev/icons?i=opencv)&nbsp;
 
-Some of my recent projects are:
+I am proficient in TensorFlow, PyTorch, scikit-learn, keras for creating, training, fine-tuning and deploying models, and actively working with the ChatGPT API. I'm also fine-tuning models like Meta's LLaMA and Google BERT for various applications. My interest in Reinforcement Learning has recently been focused on Deep Reinforcement Learning, and I'm also venturing deeper into Computer Vision.
 
-- [Sentiment Analysis with BERT](https://github.com/WaqarIM07813/Sentiment-Analysis-with-BERT) 😊
-- [Image Captioning with CNN and LSTM](https://github.com/WaqarIM07813/Image-Captioning-with-CNN-and-LSTM) 📷
-- [Chat-bot to answer physics related questions](https://github.com/WaqarIM07813/project_3) 📝
-- [Image classification using CNN](https://github.com/WaqarIM07813/project_2) 😷
-- [Data analysis using different supervised algoritms](https://github.com/WaqarIM07813/project_1) 🎥
+## Projects 🚀
 
-## My Goals 🎯
+- Sentiment Analysis with BERT 😊
+- Image Captioning with CNN and LSTM 📷
+- Chat-bot to answer physics related questions 📝
+- Image classification using CNN 😷
+- Data analysis using different supervised algorithms 🎥
+- Predicting odds of sports games using unsupervised learning 🏈 ![Machine Learning](https://skillicons.dev/icons?i=ml)&nbsp;
+- Detecting ads on live TV using deep learning and other algorithms 📺 ![Deep Learning](https://skillicons.dev/icons?i=dl)&nbsp;
+- Transformer models for predicting next word in sentence 📖 ![NLP](https://skillicons.dev/icons?i=nlp)&nbsp;
+- Training an Agent on Atari games with Deep Reinforcement Learning 🕹️ ![Reinforcement Learning](https://skillicons.dev/icons?i=ai)&nbsp;
 
-In pursuit of expanding my horizons, I am actively seeking collaboration opportunities on projects involving Machine Learning, NLP, and Deep Learning. If you are interested in working together or have any inquiries, please feel free to reach me at freespirited07813@gmail.com.
+## Collaborations and Goals 🎯
+
+I'm on the lookout for collaboration opportunities in Machine Learning, NLP, and Deep Learning. If you're interested in working together or have any inquiries, don't hesitate to reach out at freespirited07813@gmail.com.
 
 ## Let's Connect 🤝
 
-I look forward to connecting with like-minded professionals and contributing to the ever-evolving world of Artificial Intelligence.
+I am eager to connect with professionals who share my passion for AI. Let's join forces and contribute to this ever-evolving field.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waqar-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/waqar-ahmed-a31310258)
-[![Twitter](https://img.shields.io/badge/Twitter-Waqar-blue?style=flat-square&logo=twitter)](https://twitter.com/WaqarIM07813)
-[![Medium](https://img.shields.io/badge/Medium-Waqar-black?style=flat-square&logo=medium)](https://waqarim07813.medium.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Waqar-teal?style=flat-square&logo=kaggle)](https://www.kaggle.com/im07813)
-
-[![Python](https://img.shields.io/badge/Python-Waqar-yellow?style=flat-square&logo=python)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Waqar-orange?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-Waqar-red?style=flat-square&logo=pytorch)](https://pytorch.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Waqar-green?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Waqar-blue?style=flat-square&logo=opencv)](https://opencv.org/)
+![LinkedIn](https://skillicons.dev/icons?i=linkedin)&nbsp;
+![Twitter](https://skillicons.dev/icons?i=twitter)&nbsp;
+![Medium](https://skillicons.dev/icons?i=medium)&nbsp;
+![Kaggle](https://skillicons.dev/icons?i=kaggle)&nbsp;
