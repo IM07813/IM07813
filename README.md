@@ -36,7 +36,8 @@ I'm on the lookout for collaboration opportunities in Machine Learning, NLP, and
 
 I am eager to connect with professionals who share my passion for AI. Let's join forces and contribute to this ever-evolving field.
 
-![LinkedIn](https://www.linkedin.com/in/waqar-ahmed-a31310258/)&nbsp;
+![LinkedIn](https://skillicons.dev/icons?i=linkedin)&nbsp;
 ![Twitter](https://skillicons.dev/icons?i=twitter)&nbsp;
 ![Medium](https://skillicons.dev/icons?i=medium)&nbsp;
 ![Kaggle](https://skillicons.dev/icons?i=kaggle)&nbsp;
+
