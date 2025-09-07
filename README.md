@@ -89,43 +89,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IM07813&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM07813&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=IM07813&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎯 AI & Machine Learning Projects
-```
-🧠 Sentiment Analysis with BERT                    🤖 LLM Fine-tuning & Deployment
-📷 Image Captioning (CNN + LSTM)                   🎮 Deep RL Atari Game Agents  
-🔍 Computer Vision Classification                  🏆 Chess Engine with Transformers
-📊 Sports Prediction ML Models                     📺 Real-time Ad Detection System
-💬 Physics Q&A Chatbot                            🔤 Next-Word Prediction Transformers
-```
-
-### 🌐 Full Stack Applications
-```
-⚡ FastAPI + React Applications                    🗄️ Django REST API Services
-🎨 Dynamic Frontend Interfaces                    📱 Responsive Web Applications  
-🔗 LLM API Integration Projects                   🏗️ FARM Stack Applications
-☁️ Azure Cloud Deployments                        🚀 Scalable Backend Solutions
-```
-
-</div>
-
----
 
 ## 🎨 Skills Visualization
 
@@ -139,7 +102,7 @@
 |--------|--------|-------------|
 | 🤖 **AI/ML** | Deep Learning, NLP, Computer Vision, Reinforcement Learning | ████████████ 95% |
 | 🌐 **Full Stack** | React, Django, FastAPI, REST APIs | ███████████ 90% |
-| ☁️ **Cloud** | Azure, AWS, Docker, Deployment | ██████████ 85% |
+| ☁️ **Cloud** | Azure, AWS, Docker, Deployment | ██████████ 80% |
 | 🗄️ **Databases** | PostgreSQL, MongoDB, Data Modeling | ██████████ 85% |
 | 🔗 **LLM APIs** | OpenAI, Hugging Face, Fine-tuning | ████████████ 95% |
 
