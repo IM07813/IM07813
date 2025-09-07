@@ -146,20 +146,6 @@
 
 ---
 
-## 🎵 Fun Zone
-
-<div align="center">
-
-### 🎯 2024 Goals
-- [ ] Contribute to 10+ Open Source AI Projects
-- [ ] Build 5 Full Stack AI Applications  
-- [ ] Publish Research Papers on RL
-- [ ] Mentor 50+ Aspiring AI Developers
-- [x] Achieve Azure Data Scientist Certification ✅
-
-</div>
-
----
 
 <div align="center">
 
