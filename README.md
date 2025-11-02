@@ -1,10 +1,8 @@
-# 🚀 Waqar Ahmed (IM07813) - Full Stack AI Developer & Azure Data Scientist 
+# Waqar Ahmed - Machine learning engineer 
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+Deep+Learning+Expert;Azure+Certified+Data+Scientist;Building+the+Future+with+AI+%F0%9F%A4%96)
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+Deep+Learning+Expert;Azure+Certified+Data+Scientist;Building+the+Future+with+AI)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqar-ahmed-a31310258/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IM07813)
@@ -15,39 +13,31 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+**Azure Certified Data Scientist Associate** - Certified in designing and implementing data science solutions on Microsoft Azure
 
-🔥 **Passionate Full Stack AI Developer** with expertise spanning from frontend React applications to complex machine learning pipelines
+**ML** Machine Learning, Deep Learning, Reinforcement Learning, and Natural Language Processing 
 
-🎓 **Azure Certified Data Scientist Associate** - Certified in designing and implementing data science solutions on Microsoft Azure
-
-🌟 **AI Enthusiast** specializing in Python, Machine Learning, Deep Learning, Reinforcement Learning, and Natural Language Processing
-
-💡 **Innovation-driven** developer who loves tackling challenging problems and contributing to the AI community
-
-🚀 **Full Stack Expertise** - From React frontends to FastAPI backends, with comprehensive database management skills
-
+**Passionate Full Stack AI Developer** with expertise spanning from frontend React applications to complex machine learning pipelines with fast api and django
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications
 
 <div align="center">
 
 [![Azure Data Scientist](https://img.shields.io/badge/Microsoft%20Azure-Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)
-![AI Expert](https://img.shields.io/badge/AI%20Expert-Machine%20Learning-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-4ECDC4?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -55,113 +45,76 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 
-### 🌐 Full Stack Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![FARM Stack](https://img.shields.io/badge/FARM%20Stack-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔗 LLM & APIs
+### LLM & APIs
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Full Stack Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
+## Core Competencies
 
-## 🎨 Skills Visualization
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### 🔥 Core Competencies
-
-| Domain | Skills | Proficiency |
-|--------|--------|-------------|
-| 🤖 **AI/ML** | Deep Learning, NLP, Computer Vision, Reinforcement Learning | ████████████ 95% |
-| 🌐 **Full Stack** | React, Django, FastAPI, REST APIs | ███████████ 90% |
-| ☁️ **Cloud** | Azure, AWS, Docker, Deployment | ██████████ 80% |
-| 🗄️ **Databases** | PostgreSQL, MongoDB, Data Modeling | ██████████ 85% |
-| 🔗 **LLM APIs** | OpenAI, Hugging Face, Fine-tuning | ████████████ 95% |
-
-</div>
+| Domain | Skills |
+|--------|--------|
+| **AI/ML** | Deep Learning, NLP, Computer Vision, Reinforcement Learning |
+| **Cloud** | Azure, AWS, Docker, Deployment |
+| **Databases** | PostgreSQL, MongoDB, Data Modeling |
+| **LLM APIs** | OpenAI, Hugging Face, Fine-tuning |
+| **Full Stack** | React, Django, FastAPI, REST APIs |
 
 ---
 
-## 🎯 Current Focus Areas
+## Current Focus Areas
 
-<img align="right" alt="Focus" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-🔬 **Advanced AI Research**: Deep Reinforcement Learning with neuroevolution of augmented topology
-
-🏗️ **Full Stack AI Applications**: Building end-to-end AI-powered web applications
-
-☁️ **Cloud AI Solutions**: Leveraging Azure services for scalable AI deployments
-
-🤖 **LLM Integration**: Creating sophisticated applications with Large Language Models
-
-🎮 **AI Gaming**: Developing intelligent game agents and interactive AI experiences
-
+- **Cloud AI Solutions**: Leveraging Azure, modal and aws services for scalable AI deployments
+- **LLM Integration**: Creating sophisticated applications with Large Language Models
+- **Full Stack AI Applications**: Building end-to-end AI-powered web applications
 ---
 
-## 🤝 Let's Collaborate!
+## Let's Collaborate!
 
-<div align="center">
+### Open to Collaboration On:
+- **Machine Learning & AI Projects**
+- **Research in Deep Learning**
+- **Cloud-based AI Solutions**
+- **Full Stack AI Applications** 
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
-
-### 🌟 Open to Collaboration On:
-- 🤖 **Machine Learning & AI Projects**
-- 🌐 **Full Stack AI Applications** 
-- 🔬 **Research in Deep Learning**
-- ☁️ **Cloud-based AI Solutions**
-- 🚀 **Innovative Tech Startups**
-
-### 📧 Get In Touch
+### Get In Touch
 [![Email](https://img.shields.io/badge/Email-freespirited07813@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freespirited07813@gmail.com)
 
-</div>
-
 ---
-
 
 <div align="center">
 
-### 💝 Thank you for visiting my profile!
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-**"Building the future, one algorithm at a time"** 🚀
+**"Building the future, one algorithm at a time"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IM07813&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/IM07813?label=Follow&style=social)](https://github.com/IM07813)
 
----
-
-⭐️ **From [IM07813](https://github.com/IM07813)** - *Let's innovate together!*
+**From [IM07813](https://github.com/IM07813)** - *Let's innovate together!*
 
 </div>
