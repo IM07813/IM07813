@@ -15,11 +15,24 @@
 
 ## About Me
 
-**Azure Certified Data Scientist Associate** - Certified in designing and implementing data science solutions on Microsoft Azure
+**Azure Certified Data Scientist Associate** 
+<div>
+Certified in designing and implementing data science solutions on Microsoft Azure
+</div>
+<br>
+  
+**ML** 
+<div>
+Machine Learning, Deep Learning, Reinforcement Learning, and Natural Language Processing 
+</div>
+<br>
 
-**ML** Machine Learning, Deep Learning, Reinforcement Learning, and Natural Language Processing 
+**Passionate Full Stack AI Developer** 
+<div>
+Monolithic django applications, frontend React applications with fast api and django based backend and machine learning pipelines
+</div>
 
-**Passionate Full Stack AI Developer** with expertise spanning from frontend React applications to complex machine learning pipelines with fast api and django
+
 ---
 
 ## Certifications
@@ -55,22 +68,20 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Full Stack Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
